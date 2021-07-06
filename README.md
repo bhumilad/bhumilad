@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 add me here:
-[![linkdin](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/lad-bhumi-3109391b7/)
+[![linkdin](https://image.flaticon.com/icons/png/512/174/174857.png = 50x50)](https://www.linkedin.com/in/lad-bhumi-3109391b7/)
