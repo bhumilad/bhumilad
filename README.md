@@ -15,5 +15,5 @@ add me here:
 <img src='https://www.thefloodgate.co.uk/digit/wp-content/uploads/2021/05/linkedin-logo.png' width="45" height="45" />
  </a>
  <a href='https://dev.to/bhumilad'>
-<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-512.png' width="45" height="45" />
+<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-512.png' width="50" height="50" />
  </a>
