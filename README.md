@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 add me here:
-<img src='https://www.thefloodgate.co.uk/digit/wp-content/uploads/2021/05/linkedin-logo.png' width="50" height="50" />
+
+<img src='https://www.thefloodgate.co.uk/digit/wp-content/uploads/2021/05/linkedin-logo.png' width="50" height="50" />(https://www.linkedin.com/in/lad-bhumi-3109391b7/)
