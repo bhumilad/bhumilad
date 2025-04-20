@@ -53,14 +53,11 @@ _February 2022 – April 2023_
 🔹 [🏠 Rocket Mortgage Data Analysis](https://github.com/...)  
 End-to-end Power BI dashboard + predictive analytics for home loan approval and customer profiling.
 
+🔹 [⚽ Fantasy Premier League ML Model]([https://github.com/...](https://github.com/bhumilad/FPL))  
+Trained ML models on 600+ players to predict FPL performance. Used regression models with EDA storytelling.
+
 🔹 [🎬 Movie Recommender System](https://github.com/...)  
 NLP-driven content-based recommender using cosine similarity + Streamlit deployment.
-
-🔹 [⚽ Fantasy Premier League ML Model](https://github.com/...)  
-Trained ML models on 600+ players to predict FPL performance. Used classification & regression models with EDA storytelling.
-
-🔹 [🧾 OCR for Scanned Bill Automation](https://github.com/...)  
-Reduced manual data entry from 50 mins to 2 mins using Python, Regex, and Tesseract OCR.
 
 ---
 
