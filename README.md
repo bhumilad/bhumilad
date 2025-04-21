@@ -50,7 +50,7 @@ _February 2022 – April 2023_
 
 ## 📂 Featured Projects
 
-🔹 [🏠 Rocket Mortgage Data Analysis](https://github.com/...)  
+🔹 [🏠 Rocket Mortgage Data Analysis](https://github.com/bhumilad/Rocket-Mortgage)
 End-to-end Power BI dashboard + predictive analytics for home loan approval and customer profiling.
 
 🔹 [⚽ Fantasy Premier League ML Model](https://github.com/bhumilad/FPL)  
