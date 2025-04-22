@@ -56,8 +56,11 @@ End-to-end Power BI dashboard + predictive analytics for home loan approval and 
 🔹 [⚽ Fantasy Premier League ML Model](https://github.com/bhumilad/FPL)  
 Trained ML models on 600+ players to predict FPL performance. Used regression models with EDA storytelling.
 
-🔹 [🎬 Movie Recommender System](https://github.com/...)  
+🔹 [🎬 Movie Recommender System](https://github.com/bhumilad/movie_Recommender_system)  
 NLP-driven content-based recommender using cosine similarity + Streamlit deployment.
+
+🔹 [🏥 Healthcare Insurance Review & Diagnosis Analytics](https://github.com/bhumilad/IMR_analysis)  
+ Built actionable dashboards in Power BI, revealing key trends in diagnosis, review delays, and overturned decisions.
 
 ---
 
