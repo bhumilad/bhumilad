@@ -63,8 +63,7 @@ NLP-driven content-based recommender using cosine similarity + Streamlit deploym
 
 ## 📬 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhumi-lad)
-- ✉️ bhumi.your@email.com
-- 🚀 Portfolio: Coming soon (GitHub Pages + Power BI embedded)
+- ✉️ bhumilad2781@email.com
 
 ---
 
