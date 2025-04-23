@@ -62,6 +62,9 @@ NLP-driven content-based recommender using cosine similarity + Streamlit deploym
 🔹 [🏥 Healthcare Insurance Review & Diagnosis Analytics](https://github.com/bhumilad/IMR_analysis)  
  Built actionable dashboards in Power BI, revealing key trends in diagnosis, review delays, and overturned decisions.
 
+🔹 [🚔 Los Angeles Crime Pattern Analysis – LAPD](https://github.com/bhumilad/lA_police_analysis)
+Uncovered geographic and temporal crime trends using Tableau dashboards and Python-based EDA for data-driven public safety insights.
+
 ---
 
 ## 📬 Let’s Connect
