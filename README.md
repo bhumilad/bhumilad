@@ -4,7 +4,7 @@
 ---
 
 🌟 I’m not just decoding data—I’m telling the story behind it.  
-Currently based in 🇨🇦 Canada, finishing up my **Data Analytics for Business** program.  
+Currently based in 🇨🇦 Canada, I finished up my **Data Analytics for Business** program.  
 I turn *raw numbers into strategic moves* using the power of Python, Power BI, SQL, and a lil' bit of magic (aka machine learning).
 
 ---
