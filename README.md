@@ -21,7 +21,7 @@ I turn *raw numbers into strategic moves* using the power of Python, Power BI, S
 - scikit-learn, XGBoost, NLP (NLTK, spaCy), Deep Learning (Keras, TensorFlow), Time Series (FBProphet)
 
 ### 🏢 Tools & Tech Stack
-- Git, GitHub, Azure, AWS, BigQuery, SSIS, SSRS, JIRA, SAP, ERP
+- Git, GitHub, Azure, AWS, BigQuery, SSIS, SSRS, JIRA, SAP, ERP, RPA, Uipath
 
 ### 💾 Databases
 - MySQL, Microsoft SQL Server, SQLite, NoSQL (MongoDB)
