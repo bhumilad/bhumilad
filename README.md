@@ -1,5 +1,5 @@
 # Hey, I’m Bhumi Lad 👋🏽  
-🎯 Data Analyst | Future Data Scientist | Insight Hunter | AI-Driven Problem Solver
+🎯 Data Analyst | Future Data Scientist | Insight Hunter | AI-Driven Problem Solver | computer Vision
 
 ---
 
@@ -21,7 +21,7 @@ I turn *raw numbers into strategic moves* using the power of Python, Power BI, S
 - scikit-learn, XGBoost, NLP (NLTK, spaCy), Deep Learning (Keras, TensorFlow), Time Series (FBProphet)
 
 ### 🏢 Tools & Tech Stack
-- Git, GitHub, Azure, AWS, BigQuery, SSIS, SSRS, JIRA, SAP, ERP, RPA, Uipath
+- Git, GitHub, Azure, AWS, BigQuery, SSIS, SSRS, JIRA, SAP, ERP, RPA, Uipath, Google Cloud
 
 ### 💾 Databases
 - MySQL, Microsoft SQL Server, SQLite, NoSQL (MongoDB)
@@ -55,6 +55,9 @@ End-to-end Power BI dashboard + predictive analytics for home loan approval and 
 
 🔹 [⚽ Fantasy Premier League ML Model](https://github.com/bhumilad/FPL)  
 Trained ML models on 600+ players to predict FPL performance. Used regression models with EDA storytelling.
+
+🔹 [🥔 Potato Disease Classification](https://github.com/bhumilad/Potato_disease_classification)
+Built a deep learning CNN model to classify potato leaf diseases using image data with real-time predictions via CNN.
 
 🔹 [🎬 Movie Recommender System](https://github.com/bhumilad/movie_Recommender_system)  
 NLP-driven content-based recommender using cosine similarity + Streamlit deployment.
