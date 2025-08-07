@@ -72,7 +72,7 @@ Uncovered geographic and temporal crime trends using Tableau dashboards and Pyth
 
 ## 📬 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhumi-lad)
-- ✉️ bhumilad2781@email.com
+- ✉️ bhumilad2781@gmail.com
 
 ---
 
